@@ -4,9 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace InheritanceExample
-{
-    internal class GradeOfStudent :StudentMarks
+namespace InheritancGradeOfStudent :StudentMarks
     {
         public String Grade {  get; set; }
 
