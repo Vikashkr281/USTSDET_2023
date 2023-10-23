@@ -4,8 +4,8 @@ using System;
 using System.Collections;
 
 Book[] books = new Book[10];
-Customer[] customers = new Customer[2];
-Order[] orders = new Order[2];
+Customer[] customers = new Customer[10];
+Order[] orders = new Order[10];
 int option=1,choice,num1=0,ON=0,CN=0;
 
 Console.WriteLine("_____________________________Book Store_______________________________");
