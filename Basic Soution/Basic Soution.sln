@@ -21,15 +21,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignment-3-0ct-20", "Assi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignment-3B-20-Oct", "Assignment-3B-20-Oct\Assignment-3B-20-Oct.csproj", "{F8F4FD7C-F4C6-46FD-8AB9-3AFA18B1C7D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "Interface\Interface.csproj", "{3DD0D47C-6381-4EC6-A751-03356AEB0108}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interface", "Interface\Interface.csproj", "{3DD0D47C-6381-4EC6-A751-03356AEB0108}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assisemment-1-oct-21", "Assisemment-1-oct-21\Assisemment-1-oct-21.csproj", "{50670FA8-FCBD-4950-9CDE-639834B7B187}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assisemment-1-oct-21", "Assisemment-1-oct-21\Assisemment-1-oct-21.csproj", "{50670FA8-FCBD-4950-9CDE-639834B7B187}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphisim", "Polymorphisim\Polymorphisim.csproj", "{14A5F1D0-8F4A-45B7-990C-09B89E0BA9FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polymorphisim", "Polymorphisim\Polymorphisim.csproj", "{14A5F1D0-8F4A-45B7-990C-09B89E0BA9FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment-4-23-oct", "Assignment-4-23-oct\Assignment-4-23-oct.csproj", "{FC9EB1C3-C7DB-4140-9E90-C839CEAC8C48}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignment-4-23-oct", "Assignment-4-23-oct\Assignment-4-23-oct.csproj", "{FC9EB1C3-C7DB-4140-9E90-C839CEAC8C48}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment-4-B-23-oct", "Assignment-4-B-23-oct\Assignment-4-B-23-oct.csproj", "{2704E2D9-3862-4307-8604-F813D0265CA4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignment-4-B-23-oct", "Assignment-4-B-23-oct\Assignment-4-B-23-oct.csproj", "{2704E2D9-3862-4307-8604-F813D0265CA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Non-Generic-Collection", "Non-Generic-Collection\Non-Generic-Collection.csproj", "{56B63B4B-C710-4DEA-BF7F-8512052A3CDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericCollection", "GenericCollection\GenericCollection.csproj", "{A88D3859-9025-43DB-9731-7DD153FE3118}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment-5-25-oct", "Assignment-5-25-oct\Assignment-5-25-oct.csproj", "{93FCDA4B-CAAE-470A-9237-6DA8262434D8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +99,18 @@ Global
 		{2704E2D9-3862-4307-8604-F813D0265CA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2704E2D9-3862-4307-8604-F813D0265CA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2704E2D9-3862-4307-8604-F813D0265CA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56B63B4B-C710-4DEA-BF7F-8512052A3CDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56B63B4B-C710-4DEA-BF7F-8512052A3CDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56B63B4B-C710-4DEA-BF7F-8512052A3CDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56B63B4B-C710-4DEA-BF7F-8512052A3CDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A88D3859-9025-43DB-9731-7DD153FE3118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A88D3859-9025-43DB-9731-7DD153FE3118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A88D3859-9025-43DB-9731-7DD153FE3118}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A88D3859-9025-43DB-9731-7DD153FE3118}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93FCDA4B-CAAE-470A-9237-6DA8262434D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93FCDA4B-CAAE-470A-9237-6DA8262434D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93FCDA4B-CAAE-470A-9237-6DA8262434D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93FCDA4B-CAAE-470A-9237-6DA8262434D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

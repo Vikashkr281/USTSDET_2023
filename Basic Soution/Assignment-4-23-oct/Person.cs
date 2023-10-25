@@ -40,8 +40,9 @@ namespace Assignment_4_23_oct
         {
             get { return age; }
             set {
-                if (value > 18 && value < 100)
+                if (age > 18 && age < 100)
                     age = value;
+               
 
 
              else
