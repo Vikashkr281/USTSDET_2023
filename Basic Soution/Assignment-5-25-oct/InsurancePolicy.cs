@@ -23,7 +23,7 @@ namespace Assignment_5_25_oct
             premiumAmount = premiumAmount + premiumAmount * 1.1;
             return premiumAmount;
         }
-        public Double RenewPolicy(double perimum )
+        public Double RenewPolicy(double perimum)
         {
            double premiumAmount = perimum;
             return premiumAmount;

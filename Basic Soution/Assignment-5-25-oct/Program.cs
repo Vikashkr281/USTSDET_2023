@@ -17,7 +17,7 @@ Console.WriteLine("Total amount = {0}", amount);
 
 LifeInsurance lifeInsurance = new();
 lifeInsurance.age = 50;
-lifeInsurance.policyName = "dfgh";
+lifeInsurance.policyName = "lic[";
 lifeInsurance.policyId = 1;
 lifeInsurance.premimumAmount = 4567;
 
