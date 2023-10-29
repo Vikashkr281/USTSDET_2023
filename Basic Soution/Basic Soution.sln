@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileHandling", "FileHandlin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment-7-27-oct", "Assignment-7-27-oct\Assignment-7-27-oct.csproj", "{6CCB24B1-87B7-4F84-931C-B4B059E71027}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaseStudy_29-oct", "CaseStudy_29-oct\CaseStudy_29-oct.csproj", "{672D06BD-76C4-477C-844E-A93F77EC973A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{6CCB24B1-87B7-4F84-931C-B4B059E71027}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6CCB24B1-87B7-4F84-931C-B4B059E71027}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6CCB24B1-87B7-4F84-931C-B4B059E71027}.Release|Any CPU.Build.0 = Release|Any CPU
+		{672D06BD-76C4-477C-844E-A93F77EC973A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{672D06BD-76C4-477C-844E-A93F77EC973A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{672D06BD-76C4-477C-844E-A93F77EC973A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{672D06BD-76C4-477C-844E-A93F77EC973A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
