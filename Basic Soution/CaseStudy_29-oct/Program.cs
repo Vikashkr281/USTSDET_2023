@@ -3,8 +3,8 @@ using CaseStudy_29_oct;
 
 Customer1 customer11 = new Customer1();
 customer11.CustomerID = 1;
-customer11.CustomerName = "Vyshnav";
-customer11.Email = "vyshnav@ust";
+customer11.CustomerName ="Amit";
+customer11.Email = "Amit@ust";
 Customer1.customers.Add(customer11);
 Customer1 customer12 = new Customer1();
 customer12.CustomerID = 2;
@@ -17,9 +17,13 @@ customer13.CustomerName = "vikas";
 customer13.Email = "vikas@ust";
 Customer1.customers.Add(customer13);
 
+Console.WriteLine("                      E-Commerece Order Fulfillment System");
+Console.WriteLine("_________________________________________________________________________________________________");
+
 while (true)
 {
-    Console.WriteLine("choose your option\n1.User\n2.Admin");
+    Console.WriteLine("Select your option\n1.User Page\n2.Admin Page");
+    Console.WriteLine("___________________________________________________________________________________________________");
     int option = Convert.ToInt32(Console.ReadLine());
 
     if (option == 1)
@@ -129,7 +133,7 @@ while (true)
 
                     break;
                 case 4:
-                    Console.WriteLine("call this number for support 96456636727");
+                    Console.WriteLine("for support contact us on 7903324843");
                     break;
                 case 5:
                     Customer1 customer2 = Customer1.customers.Find(x => x.CustomerID == cusId);

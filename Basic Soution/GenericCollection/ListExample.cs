@@ -6,36 +6,17 @@ using System.Threading.Tasks;
 
 namespace GenericCollection
 {
-    internal class ListExample
+    internal class ListExample<T> where T : Exception
     {
-        List<int > l=new List<int>();
-        List<string> s=new List<string>();
-        public void DisplayData()
+        T vall, vall2;
+
+        public ListExample(T vall, T vall2)
         {
-            l.Add(0);
-            l.Add(1);
-                
-        l.Add(2);
-            l.Add(3);
-            foreach(int i in l)
-            {
-                Console.WriteLine(i);
-            }
+           Vall = vall;
+            Vall2 = vall2;
         }
-        public void StringExample()
-        {
-            s.Add("vikash");
-            s.Add("Kumar");
-            s.Add("Mishra");
-            s.Sort();
-            
- 
-              for(int i = 0; i < s.Count; i++)
-            {
-                for(int j=0; j < s.Count; j++) 
-                Console.WriteLine(s[i][j]);
-            }
-            
-        }
+
+        public T Vall { get => vall; set => vall = value; }
+        public T Vall2 { get => vall2; set => vall2 = value; }
     }
 }

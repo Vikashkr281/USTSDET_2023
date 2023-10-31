@@ -43,11 +43,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignment-6-26-oct", "Assi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignment-6B-26-oct", "Assignment-6B-26-oct\Assignment-6B-26-oct.csproj", "{7F46BF18-4F29-4541-91AC-9481E2A19A3C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileHandling", "FileHandling\FileHandling.csproj", "{661A6512-DF76-4295-8860-CB9E8AA467F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileHandling", "FileHandling\FileHandling.csproj", "{661A6512-DF76-4295-8860-CB9E8AA467F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment-7-27-oct", "Assignment-7-27-oct\Assignment-7-27-oct.csproj", "{6CCB24B1-87B7-4F84-931C-B4B059E71027}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignment-7-27-oct", "Assignment-7-27-oct\Assignment-7-27-oct.csproj", "{6CCB24B1-87B7-4F84-931C-B4B059E71027}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaseStudy_29-oct", "CaseStudy_29-oct\CaseStudy_29-oct.csproj", "{672D06BD-76C4-477C-844E-A93F77EC973A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CaseStudy_29-oct", "CaseStudy_29-oct\CaseStudy_29-oct.csproj", "{672D06BD-76C4-477C-844E-A93F77EC973A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment-generic-30-oct", "Assignment-generic-30-oct\Assignment-generic-30-oct.csproj", "{EF0DEDD7-544E-469C-A783-DF8B0B28FA01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate", "Delegate\Delegate.csproj", "{D6BE0B5F-8722-4631-8735-C8E6409AE529}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment-Deligate-31-oct", "Assignment-Deligate-31-oct\Assignment-Deligate-31-oct.csproj", "{82D9711B-E58B-4529-959A-1EBE607331FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment-Delegate-2-31-oct", "Assignment-Delegate-2-31-oct\Assignment-Delegate-2-31-oct.csproj", "{435FD95D-64E8-4C3B-8395-11A81A501E0E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +155,22 @@ Global
 		{672D06BD-76C4-477C-844E-A93F77EC973A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{672D06BD-76C4-477C-844E-A93F77EC973A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{672D06BD-76C4-477C-844E-A93F77EC973A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF0DEDD7-544E-469C-A783-DF8B0B28FA01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF0DEDD7-544E-469C-A783-DF8B0B28FA01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF0DEDD7-544E-469C-A783-DF8B0B28FA01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF0DEDD7-544E-469C-A783-DF8B0B28FA01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6BE0B5F-8722-4631-8735-C8E6409AE529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6BE0B5F-8722-4631-8735-C8E6409AE529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6BE0B5F-8722-4631-8735-C8E6409AE529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6BE0B5F-8722-4631-8735-C8E6409AE529}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82D9711B-E58B-4529-959A-1EBE607331FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82D9711B-E58B-4529-959A-1EBE607331FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82D9711B-E58B-4529-959A-1EBE607331FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82D9711B-E58B-4529-959A-1EBE607331FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{435FD95D-64E8-4C3B-8395-11A81A501E0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{435FD95D-64E8-4C3B-8395-11A81A501E0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{435FD95D-64E8-4C3B-8395-11A81A501E0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{435FD95D-64E8-4C3B-8395-11A81A501E0E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
