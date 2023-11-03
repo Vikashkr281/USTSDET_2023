@@ -67,6 +67,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment-Threads-02-nov",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment-Thread-2-2-nov", "Assignment-Thread-2-2-nov\Assignment-Thread-2-2-nov.csproj", "{F6D0FC05-4D51-4182-B14D-CFD58231C871}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment-Ds-03-Nov", "Assignment-Ds-03-Nov\Assignment-Ds-03-Nov.csproj", "{3006B322-E7C3-4673-8B0F-72104DB99418}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment-2-Ds-03-nov", "Assignment-2-Ds-03-nov\Assignment-2-Ds-03-nov.csproj", "{07C51485-7E8C-445C-868E-FB43871725A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -201,6 +205,14 @@ Global
 		{F6D0FC05-4D51-4182-B14D-CFD58231C871}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6D0FC05-4D51-4182-B14D-CFD58231C871}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6D0FC05-4D51-4182-B14D-CFD58231C871}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3006B322-E7C3-4673-8B0F-72104DB99418}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3006B322-E7C3-4673-8B0F-72104DB99418}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3006B322-E7C3-4673-8B0F-72104DB99418}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3006B322-E7C3-4673-8B0F-72104DB99418}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07C51485-7E8C-445C-868E-FB43871725A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07C51485-7E8C-445C-868E-FB43871725A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07C51485-7E8C-445C-868E-FB43871725A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07C51485-7E8C-445C-868E-FB43871725A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
