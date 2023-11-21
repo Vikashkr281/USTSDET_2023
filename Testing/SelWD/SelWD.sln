@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SelNunitExamples", "SelNuni
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flipkart", "Flipkart\Flipkart.csproj", "{3A45BB15-B5F7-4DE3-AD2A-F7E687E17551}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Naaptol", "Naaptol\Naaptol.csproj", "{927E5746-09B2-489C-B587-5F7E57DCA75E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{3A45BB15-B5F7-4DE3-AD2A-F7E687E17551}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A45BB15-B5F7-4DE3-AD2A-F7E687E17551}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A45BB15-B5F7-4DE3-AD2A-F7E687E17551}.Release|Any CPU.Build.0 = Release|Any CPU
+		{927E5746-09B2-489C-B587-5F7E57DCA75E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{927E5746-09B2-489C-B587-5F7E57DCA75E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{927E5746-09B2-489C-B587-5F7E57DCA75E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{927E5746-09B2-489C-B587-5F7E57DCA75E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
