@@ -49,29 +49,33 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignment-7-27-oct", "Assi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CaseStudy_29-oct", "CaseStudy_29-oct\CaseStudy_29-oct.csproj", "{672D06BD-76C4-477C-844E-A93F77EC973A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment-generic-30-oct", "Assignment-generic-30-oct\Assignment-generic-30-oct.csproj", "{EF0DEDD7-544E-469C-A783-DF8B0B28FA01}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignment-generic-30-oct", "Assignment-generic-30-oct\Assignment-generic-30-oct.csproj", "{EF0DEDD7-544E-469C-A783-DF8B0B28FA01}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate", "Delegate\Delegate.csproj", "{D6BE0B5F-8722-4631-8735-C8E6409AE529}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegate", "Delegate\Delegate.csproj", "{D6BE0B5F-8722-4631-8735-C8E6409AE529}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment-Deligate-31-oct", "Assignment-Deligate-31-oct\Assignment-Deligate-31-oct.csproj", "{82D9711B-E58B-4529-959A-1EBE607331FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignment-Deligate-31-oct", "Assignment-Deligate-31-oct\Assignment-Deligate-31-oct.csproj", "{82D9711B-E58B-4529-959A-1EBE607331FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment-Delegate-2-31-oct", "Assignment-Delegate-2-31-oct\Assignment-Delegate-2-31-oct.csproj", "{435FD95D-64E8-4C3B-8395-11A81A501E0E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignment-Delegate-2-31-oct", "Assignment-Delegate-2-31-oct\Assignment-Delegate-2-31-oct.csproj", "{435FD95D-64E8-4C3B-8395-11A81A501E0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQExample", "LINQExample\LINQExample.csproj", "{A685FBF9-8783-4475-8E36-3D3E8C94DDB9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQExample", "LINQExample\LINQExample.csproj", "{A685FBF9-8783-4475-8E36-3D3E8C94DDB9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment-LINQ-01-nov", "Assignment-LINQ-01-nov\Assignment-LINQ-01-nov.csproj", "{7A3DA9C4-6EAC-46A0-9D4B-1B87769744DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignment-LINQ-01-nov", "Assignment-LINQ-01-nov\Assignment-LINQ-01-nov.csproj", "{7A3DA9C4-6EAC-46A0-9D4B-1B87769744DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment-Linq-q-2-01-nov", "Assignment-Linq-q-2-01-nov\Assignment-Linq-q-2-01-nov.csproj", "{F07B7ADC-04F4-4525-8BB1-42856E803A52}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignment-Linq-q-2-01-nov", "Assignment-Linq-q-2-01-nov\Assignment-Linq-q-2-01-nov.csproj", "{F07B7ADC-04F4-4525-8BB1-42856E803A52}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment-Threads-02-nov", "Assignment-Threads-02-nov\Assignment-Threads-02-nov.csproj", "{443058E4-780C-425D-91C9-FF040E3E8844}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignment-Threads-02-nov", "Assignment-Threads-02-nov\Assignment-Threads-02-nov.csproj", "{443058E4-780C-425D-91C9-FF040E3E8844}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment-Thread-2-2-nov", "Assignment-Thread-2-2-nov\Assignment-Thread-2-2-nov.csproj", "{F6D0FC05-4D51-4182-B14D-CFD58231C871}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignment-Thread-2-2-nov", "Assignment-Thread-2-2-nov\Assignment-Thread-2-2-nov.csproj", "{F6D0FC05-4D51-4182-B14D-CFD58231C871}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment-Ds-03-Nov", "Assignment-Ds-03-Nov\Assignment-Ds-03-Nov.csproj", "{3006B322-E7C3-4673-8B0F-72104DB99418}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignment-Ds-03-Nov", "Assignment-Ds-03-Nov\Assignment-Ds-03-Nov.csproj", "{3006B322-E7C3-4673-8B0F-72104DB99418}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment-2-Ds-03-nov", "Assignment-2-Ds-03-nov\Assignment-2-Ds-03-nov.csproj", "{07C51485-7E8C-445C-868E-FB43871725A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignment-2-Ds-03-nov", "Assignment-2-Ds-03-nov\Assignment-2-Ds-03-nov.csproj", "{07C51485-7E8C-445C-868E-FB43871725A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CASESTUDY_2_04_Nov", "CASESTUDY_2_04_Nov\CASESTUDY_2_04_Nov.csproj", "{9F28309D-FFFE-4F08-A77D-E0409DEFD9D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CASESTUDY_2_04_Nov", "CASESTUDY_2_04_Nov\CASESTUDY_2_04_Nov.csproj", "{9F28309D-FFFE-4F08-A77D-E0409DEFD9D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{AAD43BD3-FF3B-4F15-9471-13794641A8FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{AB3D6C08-A190-4A47-98D4-6D8F881C8FD9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -219,6 +223,14 @@ Global
 		{9F28309D-FFFE-4F08-A77D-E0409DEFD9D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F28309D-FFFE-4F08-A77D-E0409DEFD9D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F28309D-FFFE-4F08-A77D-E0409DEFD9D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAD43BD3-FF3B-4F15-9471-13794641A8FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAD43BD3-FF3B-4F15-9471-13794641A8FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAD43BD3-FF3B-4F15-9471-13794641A8FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAD43BD3-FF3B-4F15-9471-13794641A8FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB3D6C08-A190-4A47-98D4-6D8F881C8FD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB3D6C08-A190-4A47-98D4-6D8F881C8FD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB3D6C08-A190-4A47-98D4-6D8F881C8FD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB3D6C08-A190-4A47-98D4-6D8F881C8FD9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
